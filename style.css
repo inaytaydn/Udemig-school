@@ -64,7 +64,7 @@ h1 {
     content:"";
     background-color: red;
    display: block;
-    width: 1px;
+    width: 0px;
     height: 2px;
     margin-top: 4px;
 }
